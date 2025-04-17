@@ -1,47 +1,36 @@
-<h1 align="center">Hi 👋, I'm Youssef Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Yousef Ahmed</h1>
 <h3 align="center">A passionate Full Stack .NET Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+MVC+%7C+EF+Core;SQL+Server+%7C+HTML+%2F+CSS+%2F+JS+%2F+Bootstrap" alt="Typing SVG" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefahmed12345&label=Profile%20views&color=0e75b6&style=flat" alt="yousefahmed12345" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefahmed12345" alt="yousefahmed12345" /></a> </p>
+
+- 🔭 I’m currently working on: **Web Applications**
+
+- 🌱 I’m currently learning **ASP.Net Core MVC & API**
+
+- 👯 I’m looking to collaborate on **with other Developers**
+
+- 🤝 I’m looking for help with: **System Design, Software Architechture**
+
+- 💬 Ask me about **C# and .NET.**
+
+- 📫 How to reach me: **[Let's get in touch!][linkedin]**
+
+- ⚡ Fun fact: **Otters are cool**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yousef-ahmed9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yousef-ahmed9/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070813190333&locale=ar_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070813190333&locale=ar_ar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccbqsk4zdl_p9wyegpcg21w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccbqsk4zdl_p9wyegpcg21w" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefahmed12345&show_icons=true&locale=en&layout=compact" alt="yousefahmed12345" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousefahmed12345&show_icons=true&locale=en" alt="yousefahmed12345" /></p>
 
-- 💬 Ask me about: **C#, ASP.NET MVC, Entity Framework, SQL Server, LINQ, JS**
-
-
-
----
-
-### 🛠️ Tech Stack:
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-6DB33F?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAhmed&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAhmed&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/YoussefAhmed" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YoussefAhmed.dev@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousefahmed12345&" alt="yousefahmed12345" /></p>
